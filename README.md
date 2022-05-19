@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Roman</a> 
-<img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Roman</a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" height="100"/></h1>
+</div>
 <h3 align="center">Stepped on the path to IT. May the Force be with us all.</h3>
 
 <!--
