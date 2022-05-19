@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Roman</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Stepped on the path to IT. The power flows in me, I'am the power</h3>
+<img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" height="32"/></h1>
+<h3 align="center">Stepped on the path to IT. May the Force be with us all.</h3>
 
 <!--
 **epselont/epselont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
