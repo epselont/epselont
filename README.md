@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" height="100"/>
+  <img src="https://media.giphy.com/media/LscL9lFvIJ9qnIc8QA/giphy.gif" height="100">
 </p>
 
 <p>
@@ -10,8 +10,13 @@
 </p>
 
 <p>
-  <h4 align="center">Stepped on the path to IT. May the Force be with us all!</h4>
+  <h4 align="center">Stepped on the path to IT.</h4>
+  <p align="center">
+    <img width="100" src="https://media.giphy.com/media/8hMD9YakVza3452SpN/giphy.gif">
+  </p>
+  <h5 align="center">May the Force be with us all!</h5>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=epselont&style=flat-square&color=brightgreen">
@@ -19,46 +24,44 @@
 
 <p align="center"> 
   <a href="https://t.me/epselont">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram" heght="40">
+    <img title="Telegram" alt="Telegram"
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>&nbsp;
   <a href="mailto:korabelnikov.ri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" heght="40">
+    <img title="Gmail" alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;
 </p>
 
-### About me:
-
----
-
 ### Languages and Tools:
 <img title="Python" alt="Python" width="40px" 
-     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
 <img title="Django" alt="Django" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp;
 <img title="DjangoRestFramework" alt="DjangoRest" width="40px"
-     src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" />&nbsp;
+  src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" />&nbsp;
 <img title="Gunicorn" alt="Gunicorn" width="40px"
-     src="https://github.com/epselont/epselont/blob/main/icons/gunicorn.png" />&nbsp;
+  src="https://github.com/epselont/epselont/blob/main/icons/gunicorn.png" />&nbsp;
 <img title="SQLite" alt="SQLite" width="50px"
-     src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;
 <img title="PostgreSQL" alt="PostgreSQL" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
 <img title="Docker" alt="Docker" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
 <img title="NGINX" alt="NGINX" width="45px"
-     src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />&nbsp;
 <img title="Ubuntu" alt="Ubuntu" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />&nbsp;
 <img title="GIT" alt="GIT" width="45px"
-     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
 <img title="GITHub" alt="GITHub" width="45px"
-     src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
 <img title="VSCode" alt="VSCode" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
 <img title="Bash" alt="Bash" width="40px"
-     src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
 <img title="YandexCloud" alt="YandexCloud" width="37px"
-     src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-192x192.png" />&nbsp;
+  src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-192x192.png" />&nbsp;
 
 ### :zap: Github Stats
 
