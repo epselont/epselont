@@ -19,17 +19,31 @@
 
 <p align="center"> 
   <a href="https://t.me/epselont">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" heght="40">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram" heght="40">
   </a>&nbsp;
   <a href="mailto:korabelnikov.ri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" heght="40">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" heght="40">
   </a>&nbsp;
 </p>
 
+### About me:
 
 ---
 
-### Technologies:
+### Languages and Tools:
+<img align="left" title="Python" alt="Python" width="35px" 
+     src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
+<img align="left" title="Django" alt="Django" width="35px"
+     src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp;
+<img align="left" title="DjangoRestFramework" alt="DjangoRest" width="35px"
+     src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" />&nbsp;
+<img align="left" title="Gunicorn" alt="Gunicorn" width="80px"
+     src="https://cdn.icon-icons.com/icons2/2699/PNG/128/gunicorn_logo_icon_170045.png" />&nbsp;
+
+
+
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
