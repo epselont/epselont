@@ -51,12 +51,21 @@
      src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />&nbsp;
 <img title="GIT" alt="GIT" width="45px"
      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
+<img title="GITHub" alt="GITHub" width="45px"
+     src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
 <img title="VSCode" alt="VSCode" width="40px"
      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
 <img title="Bash" alt="Bash" width="40px"
      src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
 <img title="YandexCloud" alt="YandexCloud" width="37px"
      src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-192x192.png" />&nbsp;
+
+### :zap: Github Stats
+
+<img align="left" alt="Epselont's Github Stats" width="50%" height="150"
+  src="http://github-readme-streak-stats.herokuapp.com?user=epselont&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" >
+<img alt="Epselont's Top Languages" width="40%" height="150" 
+  src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=epselont&show_icons=true&hide_border=true&theme=radical" >
 
 
 
