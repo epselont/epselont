@@ -31,19 +31,37 @@
 ---
 
 ### Languages and Tools:
-<img align="left" title="Python" alt="Python" width="35px" 
+<img title="Python" alt="Python" width="40px" 
      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
-<img align="left" title="Django" alt="Django" width="35px"
+<img title="Django" alt="Django" width="40px"
      src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp;
-<img align="left" title="DjangoRestFramework" alt="DjangoRest" width="35px"
+<img title="DjangoRestFramework" alt="DjangoRest" width="40px"
      src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" />&nbsp;
-<img align="left" title="Gunicorn" alt="Gunicorn" width="80px"
-     src="https://cdn.icon-icons.com/icons2/2699/PNG/128/gunicorn_logo_icon_170045.png" />&nbsp;
+<img title="Gunicorn" alt="Gunicorn" width="40px"
+     src="https://github.com/epselont/epselont/blob/main/icons/gunicorn.png" />&nbsp;
+<img title="SQLite" alt="SQLite" width="50px"
+     src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;
+<img title="PostgreSQL" alt="PostgreSQL" width="40px"
+     src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
+<img title="Docker" alt="Docker" width="40px"
+     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
+<img title="NGINX" alt="NGINX" width="45px"
+     src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />&nbsp;
+<img title="Ubuntu" alt="Ubuntu" width="40px"
+     src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />&nbsp;
+<img title="GIT" alt="GIT" width="45px"
+     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
+<img title="VSCode" alt="VSCode" width="40px"
+     src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
+<img title="Bash" alt="Bash" width="40px"
+     src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
+<img title="YandexCloud" alt="YandexCloud" width="37px"
+     src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-192x192.png" />&nbsp;
 
 
 
 
-
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -60,7 +78,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+-->
 
 
 
