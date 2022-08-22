@@ -68,7 +68,7 @@
 <img align="left" alt="Epselont's Github Stats" width="50%" height="150"
   src="http://github-readme-streak-stats.herokuapp.com?user=epselont&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" >
 <img alt="Epselont's Top Languages" width="40%" height="150" 
-  src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=epselont&show_icons=true&hide_border=true&theme=radical" >
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=epselont&layout=compact&theme=radical&hide_border=true" >
 
 
 
